@@ -1,0 +1,13 @@
+sort1 uses: BUBBLESORT
+
+reversed 10000.txt
+
+How do you know?: Because on it was faster on sorted50000.txt file than sort 3.
+
+sort2 uses: MERGE SORT
+
+How do you know?: Because it had the lowest sorting time when used on random10000.txt file.
+
+sort3 uses: SELECTION SORT
+
+How do you know?: Because on sorted50000.txt file it was slower than sort1.
